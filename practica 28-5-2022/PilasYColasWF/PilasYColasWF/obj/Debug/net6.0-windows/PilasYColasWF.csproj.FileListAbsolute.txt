@@ -1,0 +1,17 @@
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 28-5-2022\PilasYColasWF\PilasYColasWF\bin\Debug\net6.0-windows\PilasYColasWF.exe
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 28-5-2022\PilasYColasWF\PilasYColasWF\bin\Debug\net6.0-windows\PilasYColasWF.deps.json
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 28-5-2022\PilasYColasWF\PilasYColasWF\bin\Debug\net6.0-windows\PilasYColasWF.runtimeconfig.json
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 28-5-2022\PilasYColasWF\PilasYColasWF\bin\Debug\net6.0-windows\PilasYColasWF.dll
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 28-5-2022\PilasYColasWF\PilasYColasWF\bin\Debug\net6.0-windows\PilasYColasWF.pdb
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 28-5-2022\PilasYColasWF\PilasYColasWF\obj\Debug\net6.0-windows\PilasYColasWF.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 28-5-2022\PilasYColasWF\PilasYColasWF\obj\Debug\net6.0-windows\PilasYColasWF.Form1.resources
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 28-5-2022\PilasYColasWF\PilasYColasWF\obj\Debug\net6.0-windows\PilasYColasWF.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 28-5-2022\PilasYColasWF\PilasYColasWF\obj\Debug\net6.0-windows\PilasYColasWF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 28-5-2022\PilasYColasWF\PilasYColasWF\obj\Debug\net6.0-windows\PilasYColasWF.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 28-5-2022\PilasYColasWF\PilasYColasWF\obj\Debug\net6.0-windows\PilasYColasWF.AssemblyInfo.cs
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 28-5-2022\PilasYColasWF\PilasYColasWF\obj\Debug\net6.0-windows\PilasYColasWF.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 28-5-2022\PilasYColasWF\PilasYColasWF\obj\Debug\net6.0-windows\PilasYColasWF.dll
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 28-5-2022\PilasYColasWF\PilasYColasWF\obj\Debug\net6.0-windows\refint\PilasYColasWF.dll
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 28-5-2022\PilasYColasWF\PilasYColasWF\obj\Debug\net6.0-windows\PilasYColasWF.pdb
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 28-5-2022\PilasYColasWF\PilasYColasWF\obj\Debug\net6.0-windows\PilasYColasWF.genruntimeconfig.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 28-5-2022\PilasYColasWF\PilasYColasWF\obj\Debug\net6.0-windows\ref\PilasYColasWF.dll

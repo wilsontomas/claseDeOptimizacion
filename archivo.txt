@@ -1,0 +1,18 @@
+___________
+Titulo: a
+Director: a
+Escritor:a
+Genero: a
+Clasificacion: a
+Duracion: a
+Productora: a
+___________
+___________
+Titulo: b
+Director: b
+Escritor:b
+Genero: b
+Clasificacion: b
+Duracion: b
+Productora: b
+___________

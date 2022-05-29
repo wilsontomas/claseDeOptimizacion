@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\Seguro\Seguro\bin\Debug\net6.0\Seguro.exe
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\Seguro\Seguro\bin\Debug\net6.0\Seguro.deps.json
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\Seguro\Seguro\bin\Debug\net6.0\Seguro.runtimeconfig.json
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\Seguro\Seguro\bin\Debug\net6.0\Seguro.dll
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\Seguro\Seguro\bin\Debug\net6.0\Seguro.pdb
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\Seguro\Seguro\obj\Debug\net6.0\Seguro.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\Seguro\Seguro\obj\Debug\net6.0\Seguro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\Seguro\Seguro\obj\Debug\net6.0\Seguro.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\Seguro\Seguro\obj\Debug\net6.0\Seguro.AssemblyInfo.cs
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\Seguro\Seguro\obj\Debug\net6.0\Seguro.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\Seguro\Seguro\obj\Debug\net6.0\Seguro.dll
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\Seguro\Seguro\obj\Debug\net6.0\refint\Seguro.dll
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\Seguro\Seguro\obj\Debug\net6.0\Seguro.pdb
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\Seguro\Seguro\obj\Debug\net6.0\Seguro.genruntimeconfig.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\Seguro\Seguro\obj\Debug\net6.0\ref\Seguro.dll

@@ -1,0 +1,3 @@
+buscar tipos de datos abstractos
+notacion asintotica
+en que se emplean las listas, pilas y colas y traer ejemplos
