@@ -1,18 +1,9 @@
 ___________
-Titulo: a
-Director: a
-Escritor:a
-Genero: a
-Clasificacion: a
-Duracion: a
-Productora: a
-___________
-___________
-Titulo: b
-Director: b
-Escritor:b
-Genero: b
-Clasificacion: b
-Duracion: b
-Productora: b
+Titulo: ciudadaon kane
+Director: rafy pina
+Escritor:ciudadaon kane
+Genero: politica
+Clasificacion: adulta
+Duracion: 2 horas
+Productora: disnay
 ___________
