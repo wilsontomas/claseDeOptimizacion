@@ -74,14 +74,14 @@ namespace StackAndQueue
         public void StartMenu()
         {
             Console.WriteLine("Que coleccion desea utilizar?");
-            Console.WriteLine("Fila: 1");
+            Console.WriteLine("Cola: 1");
             Console.WriteLine("Pila: 2");
            
             var active = true;
             var type = Console.ReadLine();
             int opcion = 0;
             if (!int.TryParse(type, out opcion)) { active = false; }
-
+            if(opcion ==0 || opcion >2) { active = false;  Console.WriteLine("Numero incorrecto."); }
           
                 while (active)
                 {

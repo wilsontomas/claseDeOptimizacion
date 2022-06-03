@@ -1,0 +1,17 @@
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 27-5-2022\LinkedListWF\LinkedListWF\bin\Debug\net6.0-windows\LinkedListWF.exe
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 27-5-2022\LinkedListWF\LinkedListWF\bin\Debug\net6.0-windows\LinkedListWF.deps.json
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 27-5-2022\LinkedListWF\LinkedListWF\bin\Debug\net6.0-windows\LinkedListWF.runtimeconfig.json
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 27-5-2022\LinkedListWF\LinkedListWF\bin\Debug\net6.0-windows\LinkedListWF.dll
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 27-5-2022\LinkedListWF\LinkedListWF\bin\Debug\net6.0-windows\LinkedListWF.pdb
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 27-5-2022\LinkedListWF\LinkedListWF\obj\Debug\net6.0-windows\LinkedListWF.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 27-5-2022\LinkedListWF\LinkedListWF\obj\Debug\net6.0-windows\LinkedListWF.Form1.resources
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 27-5-2022\LinkedListWF\LinkedListWF\obj\Debug\net6.0-windows\LinkedListWF.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 27-5-2022\LinkedListWF\LinkedListWF\obj\Debug\net6.0-windows\LinkedListWF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 27-5-2022\LinkedListWF\LinkedListWF\obj\Debug\net6.0-windows\LinkedListWF.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 27-5-2022\LinkedListWF\LinkedListWF\obj\Debug\net6.0-windows\LinkedListWF.AssemblyInfo.cs
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 27-5-2022\LinkedListWF\LinkedListWF\obj\Debug\net6.0-windows\LinkedListWF.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 27-5-2022\LinkedListWF\LinkedListWF\obj\Debug\net6.0-windows\LinkedListWF.dll
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 27-5-2022\LinkedListWF\LinkedListWF\obj\Debug\net6.0-windows\refint\LinkedListWF.dll
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 27-5-2022\LinkedListWF\LinkedListWF\obj\Debug\net6.0-windows\LinkedListWF.pdb
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 27-5-2022\LinkedListWF\LinkedListWF\obj\Debug\net6.0-windows\LinkedListWF.genruntimeconfig.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 27-5-2022\LinkedListWF\LinkedListWF\obj\Debug\net6.0-windows\ref\LinkedListWF.dll
