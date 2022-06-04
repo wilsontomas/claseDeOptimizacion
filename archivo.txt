@@ -1,9 +1,9 @@
 ___________
-Titulo: ciudadaon kane
-Director: rafy pina
-Escritor:ciudadaon kane
-Genero: politica
+Titulo: avatar
+Director: jame cameron
+Escritor:avatar
+Genero: ciencia ficcion
 Clasificacion: adulta
 Duracion: 2 horas
-Productora: disnay
+Productora: sony
 ___________

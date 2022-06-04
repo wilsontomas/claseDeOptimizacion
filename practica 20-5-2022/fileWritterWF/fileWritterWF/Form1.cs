@@ -24,6 +24,7 @@ namespace fileWritterWF
             peli.productora = productora.Text ?? "N/A";
 
             peliculas.Add(peli);
+            dataGridView1.DataSource = peliculas;
             escribirArchivo(peli);
 
         }
@@ -55,6 +56,8 @@ namespace fileWritterWF
 
             }
         }
+
+       
 
        
     }
