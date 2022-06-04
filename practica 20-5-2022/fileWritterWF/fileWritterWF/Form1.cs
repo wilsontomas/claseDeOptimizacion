@@ -24,8 +24,10 @@ namespace fileWritterWF
             peli.productora = productora.Text ?? "N/A";
 
             peliculas.Add(peli);
-            dataGridView1.DataSource = peliculas;
+            
+            
             escribirArchivo(peli);
+            showDataFromFile();
 
         }
 
@@ -34,6 +36,7 @@ namespace fileWritterWF
 
             using (StreamWriter sw = File.CreateText(path))
             {
+
                 foreach (var pel in peliculas)
                 {
                     sw.WriteLine("___________");
@@ -54,6 +57,23 @@ namespace fileWritterWF
 
                 }
 
+            }
+        }
+
+        private void showDataFromFile() 
+        {
+            using (StreamReader sr = File.OpenText(path))
+            {
+                listBox1.Items.Clear();
+                int contador = 0;
+                string linea;
+                while ((linea = sr.ReadLine()) != null)
+                {
+                    if (contador == 8) {  contador = -1; }
+                    listBox1.Items.Add(linea);
+
+                   contador++;
+                }
             }
         }
 
