@@ -35,7 +35,6 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.listBox1 = new System.Windows.Forms.ListBox();
             this.label4 = new System.Windows.Forms.Label();
             this.contador = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
@@ -44,6 +43,8 @@
             this.label6 = new System.Windows.Forms.Label();
             this.button3 = new System.Windows.Forms.Button();
             this.eliminarTxt = new System.Windows.Forms.TextBox();
+            this.dataGrid1 = new System.Windows.Forms.DataGridView();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGrid1)).BeginInit();
             this.SuspendLayout();
             // 
             // button1
@@ -103,15 +104,6 @@
             this.label3.Size = new System.Drawing.Size(42, 15);
             this.label3.TabIndex = 6;
             this.label3.Text = "Salario";
-            // 
-            // listBox1
-            // 
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 15;
-            this.listBox1.Location = new System.Drawing.Point(12, 290);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(404, 154);
-            this.listBox1.TabIndex = 7;
             // 
             // label4
             // 
@@ -183,11 +175,21 @@
             this.eliminarTxt.Size = new System.Drawing.Size(100, 23);
             this.eliminarTxt.TabIndex = 15;
             // 
+            // dataGrid1
+            // 
+            this.dataGrid1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGrid1.Location = new System.Drawing.Point(12, 288);
+            this.dataGrid1.Name = "dataGrid1";
+            this.dataGrid1.RowTemplate.Height = 25;
+            this.dataGrid1.Size = new System.Drawing.Size(480, 150);
+            this.dataGrid1.TabIndex = 16;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(428, 450);
+            this.ClientSize = new System.Drawing.Size(512, 450);
+            this.Controls.Add(this.dataGrid1);
             this.Controls.Add(this.eliminarTxt);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.label6);
@@ -196,7 +198,6 @@
             this.Controls.Add(this.label5);
             this.Controls.Add(this.contador);
             this.Controls.Add(this.label4);
-            this.Controls.Add(this.listBox1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -206,6 +207,7 @@
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)(this.dataGrid1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -220,7 +222,6 @@
         private Label label1;
         private Label label2;
         private Label label3;
-        private ListBox listBox1;
         private Label label4;
         private Label contador;
         private Label label5;
@@ -229,5 +230,6 @@
         private Label label6;
         private Button button3;
         private TextBox eliminarTxt;
+        private DataGridView dataGrid1;
     }
 }

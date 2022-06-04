@@ -31,7 +31,8 @@ namespace SeguroWF
             per.sfs = (per.sueldo / 100) * sfs;
             per.total = per.sueldo - per.afp - per.sfs;
             personas.Add(per);
-            fillList(personas);
+            //fillList(personas);
+            dataGrid1.DataSource = personas;
             generador++;
             contador.Text = personas.Count().ToString();
         }
@@ -51,8 +52,8 @@ namespace SeguroWF
             if (persona != null)
             {
                 personas.Remove(persona);
-               
-                fillList(personas);
+
+                dataGrid1.DataSource = personas;
                 MessageBox.Show("Se elimino la persona");
             }
             else
@@ -63,11 +64,12 @@ namespace SeguroWF
 
         private void fillList(List<Persona> persona)
         {
-            listBox1.MultiColumn = true;
+            //listBox1.MultiColumn = true;
 
-            listBox1.SelectionMode = SelectionMode.MultiExtended;
-            listBox1.Items.Clear();
-            foreach (var item in persona) 
+           // listBox1.SelectionMode = SelectionMode.MultiExtended;
+            //listBox1.Items.Clear();
+            dataGrid1.DataSource= personas;
+           /* foreach (var item in persona) 
             {
               var valor = string.Format("{0}, {1}, {2}, {3}, {4}, {5}, {6}",
             item.id,
@@ -83,7 +85,7 @@ namespace SeguroWF
 
                 listBox1.Items.Add(valor);
                 
-            }
+            }*/
         }
     }
 }
