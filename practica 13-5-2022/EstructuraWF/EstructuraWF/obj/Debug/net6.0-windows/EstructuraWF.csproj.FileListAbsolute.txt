@@ -1,0 +1,17 @@
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\EstructuraWF\EstructuraWF\bin\Debug\net6.0-windows\EstructuraWF.exe
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\EstructuraWF\EstructuraWF\bin\Debug\net6.0-windows\EstructuraWF.deps.json
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\EstructuraWF\EstructuraWF\bin\Debug\net6.0-windows\EstructuraWF.runtimeconfig.json
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\EstructuraWF\EstructuraWF\bin\Debug\net6.0-windows\EstructuraWF.dll
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\EstructuraWF\EstructuraWF\bin\Debug\net6.0-windows\EstructuraWF.pdb
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\EstructuraWF\EstructuraWF\obj\Debug\net6.0-windows\EstructuraWF.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\EstructuraWF\EstructuraWF\obj\Debug\net6.0-windows\EstructuraWF.Form1.resources
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\EstructuraWF\EstructuraWF\obj\Debug\net6.0-windows\EstructuraWF.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\EstructuraWF\EstructuraWF\obj\Debug\net6.0-windows\EstructuraWF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\EstructuraWF\EstructuraWF\obj\Debug\net6.0-windows\EstructuraWF.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\EstructuraWF\EstructuraWF\obj\Debug\net6.0-windows\EstructuraWF.AssemblyInfo.cs
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\EstructuraWF\EstructuraWF\obj\Debug\net6.0-windows\EstructuraWF.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\EstructuraWF\EstructuraWF\obj\Debug\net6.0-windows\EstructuraWF.dll
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\EstructuraWF\EstructuraWF\obj\Debug\net6.0-windows\refint\EstructuraWF.dll
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\EstructuraWF\EstructuraWF\obj\Debug\net6.0-windows\EstructuraWF.pdb
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\EstructuraWF\EstructuraWF\obj\Debug\net6.0-windows\EstructuraWF.genruntimeconfig.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\EstructuraWF\EstructuraWF\obj\Debug\net6.0-windows\ref\EstructuraWF.dll

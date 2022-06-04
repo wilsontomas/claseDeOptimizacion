@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\Estructura\Estructura\bin\Debug\net6.0\Estructura.exe
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\Estructura\Estructura\bin\Debug\net6.0\Estructura.deps.json
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\Estructura\Estructura\bin\Debug\net6.0\Estructura.runtimeconfig.json
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\Estructura\Estructura\bin\Debug\net6.0\Estructura.dll
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\Estructura\Estructura\bin\Debug\net6.0\Estructura.pdb
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\Estructura\Estructura\obj\Debug\net6.0\Estructura.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\Estructura\Estructura\obj\Debug\net6.0\Estructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\Estructura\Estructura\obj\Debug\net6.0\Estructura.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\Estructura\Estructura\obj\Debug\net6.0\Estructura.AssemblyInfo.cs
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\Estructura\Estructura\obj\Debug\net6.0\Estructura.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\Estructura\Estructura\obj\Debug\net6.0\Estructura.dll
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\Estructura\Estructura\obj\Debug\net6.0\refint\Estructura.dll
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\Estructura\Estructura\obj\Debug\net6.0\Estructura.pdb
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\Estructura\Estructura\obj\Debug\net6.0\Estructura.genruntimeconfig.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 13-5-2022\Estructura\Estructura\obj\Debug\net6.0\ref\Estructura.dll
