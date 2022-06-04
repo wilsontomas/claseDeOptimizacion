@@ -1,0 +1,17 @@
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\SeguroWF\SeguroWF\bin\Debug\net6.0-windows\SeguroWF.exe
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\SeguroWF\SeguroWF\bin\Debug\net6.0-windows\SeguroWF.deps.json
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\SeguroWF\SeguroWF\bin\Debug\net6.0-windows\SeguroWF.runtimeconfig.json
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\SeguroWF\SeguroWF\bin\Debug\net6.0-windows\SeguroWF.dll
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\SeguroWF\SeguroWF\bin\Debug\net6.0-windows\SeguroWF.pdb
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\SeguroWF\SeguroWF\obj\Debug\net6.0-windows\SeguroWF.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\SeguroWF\SeguroWF\obj\Debug\net6.0-windows\SeguroWF.Form1.resources
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\SeguroWF\SeguroWF\obj\Debug\net6.0-windows\SeguroWF.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\SeguroWF\SeguroWF\obj\Debug\net6.0-windows\SeguroWF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\SeguroWF\SeguroWF\obj\Debug\net6.0-windows\SeguroWF.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\SeguroWF\SeguroWF\obj\Debug\net6.0-windows\SeguroWF.AssemblyInfo.cs
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\SeguroWF\SeguroWF\obj\Debug\net6.0-windows\SeguroWF.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\SeguroWF\SeguroWF\obj\Debug\net6.0-windows\SeguroWF.dll
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\SeguroWF\SeguroWF\obj\Debug\net6.0-windows\refint\SeguroWF.dll
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\SeguroWF\SeguroWF\obj\Debug\net6.0-windows\SeguroWF.pdb
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\SeguroWF\SeguroWF\obj\Debug\net6.0-windows\SeguroWF.genruntimeconfig.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 21-5-2022\SeguroWF\SeguroWF\obj\Debug\net6.0-windows\ref\SeguroWF.dll
